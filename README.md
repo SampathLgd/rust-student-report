@@ -1,9 +1,11 @@
+
+````markdown
 # 📘 Rust Student Report Card System
 
 This is a **Rust-based CLI application** that allows you to manage student report data with the ability to:
 
-- ➕ Add, ✏️ Update, 🔍 View, and ❌ Delete students
-- 🧠 Automatically calculate **average, percentage, and grade**
+- ➕ Add, ✏️ Update, 🔍 View, and ❌ Delete students  
+- 🧠 Automatically calculate **average, percentage, and grade**  
 - 📝 Generate a **styled PDF report card** for all students
 
 ---
@@ -40,12 +42,13 @@ This is a **Rust-based CLI application** that allows you to manage student repor
 git clone https://github.com/SampathLgd/rust-student-report.git
 cd rust-student-report
 cargo run --release
+````
 
-
+---
 
 ## 📂 Output
 
-- PDF is saved to: `output/report_card.pdf`
+* 📄 PDF is saved to: `output/report_card.pdf`
 
 ### 🧪 Example Console Menu
 
@@ -57,8 +60,15 @@ cargo run --release
 4. Delete Student
 5. Generate PDF Report
 6. Exit
+```
 
-
+---
 
 ## 🖨️ Sample PDF Preview
-You can find the generated PDF in the output/ folder → report_card.pdf
+
+You can find the generated PDF in the `output/` folder → `report_card.pdf`
+
+---
+
+**Made with ❤️ by [Sampath Lagudu]
+```
