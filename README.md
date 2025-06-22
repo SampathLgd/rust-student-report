@@ -7,7 +7,6 @@ This is a **Rust-based CLI application** that allows you to manage student repor
 - 🧠 Automatically calculate **average, percentage, and grade**  
 - 📝 Generate a **styled PDF report card** for all students
 
----
 
 ## 🛠 Features
 
@@ -26,7 +25,6 @@ This is a **Rust-based CLI application** that allows you to manage student repor
     - D: < 60%
 - 📄 Exports a beautiful **PDF report card** using [`printpdf`](https://crates.io/crates/printpdf)
 
----
 
 ## 🚀 Getting Started
 
@@ -43,13 +41,12 @@ cd rust-student-report
 cargo run --release
 ````
 
----
 
 ## 📂 Output
 
 * 📄 PDF is saved to: `output/report_card.pdf`
 
-### 🧪 Example Console Menu
+### 🧪 Console Menu
 
 ```text
 ====== Student Report System ======
@@ -61,13 +58,11 @@ cargo run --release
 6. Exit
 ```
 
----
 
 ## 🖨️ Sample PDF Preview
 
 You can find the generated PDF in the `output/` folder → `report_card.pdf`
 
----
 
-**Made with ❤️ by [Sampath Lagudu]
-```
+Made with ❤️ by [Sampath Lagudu]
+
