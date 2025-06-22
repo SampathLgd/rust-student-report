@@ -1,5 +1,4 @@
 
-````markdown
 # 📘 Rust Student Report Card System
 
 This is a **Rust-based CLI application** that allows you to manage student report data with the ability to:
