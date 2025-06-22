@@ -40,3 +40,25 @@ This is a **Rust-based CLI application** that allows you to manage student repor
 git clone https://github.com/SampathLgd/rust-student-report.git
 cd rust-student-report
 cargo run --release
+
+
+
+## 📂 Output
+
+- PDF is saved to: `output/report_card.pdf`
+
+### 🧪 Example Console Menu
+
+```text
+====== Student Report System ======
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Generate PDF Report
+6. Exit
+
+
+
+## 🖨️ Sample PDF Preview
+You can find the generated PDF in the output/ folder → report_card.pdf
